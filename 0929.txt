@@ -1,0 +1,18 @@
+우왕 ! 깃 처음 만들었당 ! 
+
+
+.. -> 뒤로 
+
+* . -> 모든거 
+0. git status 
+1. git add [파일이름] .
+2. git commit -m "로그인 고침너가 쓰고 싶은 내용"
+3. git push origin master 
+
+
+[연결시키기]
+1. 컴퓨터의 폴더에서 git init을 한다 
+2. git remote add origin https://github.com/choi-SunYoung/TIL.git
+3. 연결 되었는지 확인 ? 
+git remote -a (이름)
+git remote -v 
